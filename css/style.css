@@ -1,0 +1,79 @@
+p{
+    color:red ;
+}
+*{
+   background-color: rgb(191, 202, 192);
+}
+a{
+    display: inline;
+    margin: 6px;
+    border:1.5px solid rgb(161, 123, 40); 
+    border-radius: 4px;
+    color: black;
+    text-decoration: none;
+}
+.fontfamily{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ color: rgb(252, 172, 24);
+}
+.image{
+  /*  background:url("/image/black.jpg"); */
+    border-radius: px;
+}
+a:hover{
+    color: rgb(224, 54, 54);
+}
+.background{
+    margin: 130px;
+
+    margin-top: 80px;
+}
+.form .textlabel{
+    display: block;
+}
+.sum{
+    background-color: rgb(189, 146, 146);
+    width: 350px;
+}
+#biryani{
+    background-color: red;
+    width: 310px;
+}
+#dessert{
+    background-color: red;
+    width: 310px;
+}
+#breakfast{
+    background-color: red;
+    width: 310px;
+}
+#pizza{
+    background-color: red;
+    width: 310px;
+}
+#burger{
+    background-color: red;
+    width: 310px;
+}
+#sandwich{
+    background-color: red;
+    width: 310px;
+}
+.like{
+    color: red;
+    text-decoration: line-through;
+    cursor: pointer;
+    border-radius: 1em;
+    padding: 5px;
+    font-size: 15px;
+}
+.likes{
+    color: green;
+    cursor: pointer;
+    cursor: pointer;
+    border-radius: 1em;
+    padding: 5px;
+    font-size: 15px;
+    
+
+}
